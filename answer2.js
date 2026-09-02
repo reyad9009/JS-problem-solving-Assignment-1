@@ -23,3 +23,13 @@ getDayType("FridaY")
 getDayType("Saturday") 
 getDayType("MONDAY") 
 getDayType("Bandarban")
+
+
+
+
+
+
+
+
+
+
